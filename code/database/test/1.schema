@@ -1,0 +1,3 @@
+#TABLENAME#1
+#name #VARCHAR(5)#NOT NULL
+#offset #VARCHAR(7)#NOT NULL

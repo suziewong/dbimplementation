@@ -1,0 +1,6 @@
+id   |name 
+1    |suzie
+20   |shi  
+22   |cheng
+18   |shi  
+10   |ye   
